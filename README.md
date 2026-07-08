@@ -235,8 +235,8 @@ biblioteca SHAP não esteja instalada) e **11 tabelas** em `results/tabelas/`.
 | Notebook (análise + modelagem) | `notebooks/01_analise_e_modelagem.ipynb` |
 | Relatório técnico (PDF) | `relatorio_tecnico_fase_2.pdf` |
 | Código modular reproduzível | `src/` — ver `src/README.md` |
-| Vídeo de apresentação (≤ 5 min) | `https://youtu.be/24j8LucBWxU?si=hbToJGP8F1KqrZIN` |
-| Repositório público | `https://github.com/lgmricardo/Techchallenge2-G12` |
+| Vídeo de apresentação (≤ 5 min) | `<INSERIR_LINK_DO_VIDEO>` |
+| Repositório público | `<INSERIR_LINK_DO_REPOSITORIO>` |
 
 ---
 
